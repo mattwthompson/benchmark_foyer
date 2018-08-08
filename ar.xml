@@ -1,0 +1,8 @@
+<ForceField>
+ <AtomTypes>
+  <Type name="ar_000" class="Ar" element="Ar" mass="39.948" def="[Ar]" desc="generic Ar"/>
+ </AtomTypes>
+ <NonbondedForce coulomb14scale="0.5" lj14scale="0.5">
+  <Atom type="ar_000" charge="0" sigma="1.0" epsilon="1.0"/>
+ </NonbondedForce>
+</ForceField>
