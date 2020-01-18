@@ -1,0 +1,7 @@
+mbuild
+foyer
+jupyter
+numpy
+pandas
+dask
+matplotlib
